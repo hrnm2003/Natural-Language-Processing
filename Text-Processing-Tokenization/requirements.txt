@@ -1,0 +1,4 @@
+python-dotenv
+tokenizers
+datasets
+huggingface_hub
